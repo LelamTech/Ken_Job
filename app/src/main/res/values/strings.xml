@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ken_Job</string>
+    <string name="startup_title">Hello there!</string>
+    <string name="startup_sub">Nice to meet you,you are welcome to join our community!Help others..while helping yourself
+        <br><b>Login</b>If you already have an account.</br>
+        <br><b>Register</b>to get started on your journey.</br></string>
+    <string name="Illustration_img">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="home_title">Welcome to Ken Job</string>
+    <string name="home_sub_title">Bringing the Community together</string>
+    <string name="btn_logout">LOGOUT</string>
+
+</resources>

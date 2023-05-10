@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634630540875",
+    "project_id": "ken-job-610dd",
+    "storage_bucket": "ken-job-610dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634630540875:android:b55f682a3bf2489ef847ce",
+        "android_client_info": {
+          "package_name": "com.example.ken_job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634630540875-i9uedh1knqmbi9r9jqlqkrgfj0jvidtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSQHLMjQEeQ8JdvoQYC95dZq8H4Ze5nBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634630540875-i9uedh1knqmbi9r9jqlqkrgfj0jvidtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
